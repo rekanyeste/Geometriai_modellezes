@@ -1,0 +1,3 @@
+Bézier-görbe: Bernstein polinom és de Casteljau algoritmus összehasonlítása, a számítási pontosság és kontrollpontok vizsgálata, de Casteljau algoritmus legyen az alap, n-ed fokú kell!!
+számítási és futási időket is érdemes lemérni, hogyha például egy 5-öd fokú és egy 5000-red fokú közelíti egymást.
+
