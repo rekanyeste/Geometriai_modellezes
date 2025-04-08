@@ -21,3 +21,5 @@ A projekt a Bézier-görbék két népszerű számítási módszerét valósítj
    - **Mindkét görbét** egyszerre.
 4. **T paraméter szabályozása**: A csúszkával módosíthatod a `t` paraméter értékét, amely meghatározza a görbe pontját.
 5. **Számítások megjelenítése**: A számítási lépések részletesen láthatóak a képernyőn, bemutatva a kontrollpontok közötti interpolációkat és az egyes algoritmusok lépéseit.
+
+Készítette: Nyeste Réka (GKE37T), mérnökinformatikus MSC
